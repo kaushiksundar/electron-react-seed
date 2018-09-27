@@ -1,6 +1,6 @@
-# empty-project-css-png-react-react-hot-loader-svg-lodash
+# Electron React Seed
 
-Empty project.
+A desktop app with Electron.
 
 ## Building and running on localhost
 
@@ -13,7 +13,7 @@ npm install
 To run in hot module reloading mode:
 
 ```sh
-npm start
+npm run start-dev-server
 ```
 
 To create a production build:
@@ -32,3 +32,8 @@ npm run build-dev
 
 Open the file `dist/index.html` in your browser
 
+Open as a desktop app run:
+
+```sh
+npm start
+```
